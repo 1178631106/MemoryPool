@@ -1,0 +1,11 @@
+﻿  CentralCache.cpp
+D:\workspace\MyTest\Common.h(158,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\workspace\MyTest\Common.h(200,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MyTest.cpp
+D:\workspace\MyTest\Common.h(158,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\workspace\MyTest\Common.h(200,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ThreadCache.cpp
+D:\workspace\MyTest\Common.h(158,1): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\workspace\MyTest\Common.h(200,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  MyTest.vcxproj -> D:\workspace\MyTest\x64\Debug\MyTest.exe

@@ -1,0 +1,37 @@
+﻿  CentralCache.cpp
+  PageCache.cpp
+D:\Workspace\visualStudio\MyTest\Common.h(266,22): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\Workspace\visualStudio\MyTest\Common.h(308,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Workspace\visualStudio\MyTest\Common.h(266,22): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\Workspace\visualStudio\MyTest\Common.h(308,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Workspace\visualStudio\MyTest\PageCache.cpp(33,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ThreadCache.cpp
+D:\Workspace\visualStudio\MyTest\Common.h(266,22): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\Workspace\visualStudio\MyTest\Common.h(308,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  benchmark.cpp
+D:\Workspace\visualStudio\MyTest\Common.h(266,22): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\Workspace\visualStudio\MyTest\Common.h(308,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(55,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(55,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(55,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(55,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“unsigned __int64”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(58,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(58,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(58,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(58,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“unsigned __int64”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(61,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(61,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(61,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(108,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(108,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(108,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(108,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“unsigned __int64”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(111,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(111,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(111,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(111,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“unsigned __int64”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(114,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(114,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\Workspace\visualStudio\MyTest\benchmark.cpp(114,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+  正在生成代码...
+  MyTest.vcxproj -> D:\Workspace\visualStudio\MyTest\x64\Debug\MyTest.exe
